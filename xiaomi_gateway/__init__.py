@@ -246,7 +246,7 @@ class XiaomiGateway:
                        'ctrl_ln1', 'ctrl_ln1.aq1',
                        'ctrl_ln2', 'ctrl_ln2.aq1',
                        '86plug', 'ctrl_86plug', 'ctrl_86plug.aq1'],
-            'light': ['gateway', 'gateway.v3'],
+            'light': ['gateway', 'gateway.v3', 'aqcn02'],
             'cover': ['curtain'],
             'lock': ['lock.aq1', 'lock.acn02']}
 
